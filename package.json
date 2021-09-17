@@ -3,6 +3,7 @@
   "dependencies": {
     "express": "^4.14.0"
   },
+  "description": "Awsome test code",
   "main": "server.js",
   "name": "fcc-learn-npm-package-json",
   "repository": {
@@ -12,5 +13,4 @@
   "scripts": {
     "start": "node server.js"
   }
-  "description": "Awsome test code"
 }
